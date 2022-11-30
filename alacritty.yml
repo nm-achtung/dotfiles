@@ -1,0 +1,29 @@
+# Colors (Gruvbox dark)
+colors:
+  # Default colors
+  primary:
+    # hard contrast: background = '0x1d2021'
+    background: '0x000000'
+    # soft contrast: background = '0x32302f'
+    foreground: '0xffffff'
+
+font:
+  normal:
+    family: cozette
+    style: Regular
+
+    bold: 
+      family: cozette
+      style: Bold
+
+    italic:
+      family: cozette
+      style: Italic
+    bold_italic:
+      family: cozette
+      style: Bold Italic
+
+size: 13
+
+window:
+  opacity: 0.5
