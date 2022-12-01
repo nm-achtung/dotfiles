@@ -1,7 +1,8 @@
-Dotfiles for hyprland, hyprpaper and waybar.
+Dotfiles for hyprland, hyprpaper, waybar, fish and starship prompt.
+
 
 Font is cozette (https://github.com/slavfox/Cozette)
 
-credit to DanL2015 for config files (I modified them to my liking.) (https://github.com/DanL2015/Hyprland)
+credit to DanL2015 for hyprland and waybar config files (I modified them to my liking.) (https://github.com/DanL2015/Hyprland)
 
 Tested on Arch Linux x86_64.
